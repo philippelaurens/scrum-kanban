@@ -6,6 +6,7 @@
 
 - [`scrum-recueil.pdf`](./scrum-recueil.pdf) — le recueil complet
 - [`scrum-presentation.pdf`](./scrum-presentation.pdf) — le support de présentation
+- une étude de cas : un projet de jardinage intelligent
 
 ## Contexte
 
@@ -29,35 +30,11 @@ L'équipe de réalisation est restreinte et hautement spécialisée. Elle rassem
 
 ## Contenu
 
-- **Origines** — la conférence de Dartmouth
-- **Quatre trajectoires historiques** — IA symbolique, IA connexionniste, apprentissage automatique, traitement du langage naturel
-- **Perspectives** — le pari du scaling face aux architectures alternatives, et le retour du symbolique : hybridation ou fusion neuro-symbolique
+- Offrir une interface utilisateur (Web & App) permettant de suivre en temps réel la santé des cultures, la météo et l'historique d'entretien.
+- Anticiper les risques climatiques (gel, canicule) et recommander des actions préventives.
+- Optimiser la santé et le rendement par l'IA : Tirer parti des données de culture (historique, météo, capteurs de sol/plante) pour fournir un journal d'entretien intelligent et des recommandations sur mesure (fréquence d'arrosage, apport de nutriments, moments de taille).
 
 ## Licence
 
 CC0
-
-
-
-
-
-
-
-
-Une approche progressive (Agile / Scrum) : 
-
-Les Objectifs Principaux
-Superviser et anticiper :
-
-Offrir une interface utilisateur (Web & App) permettant de suivre en temps réel la santé des cultures, la météo et l'historique d'entretien.
-
-Anticiper les risques climatiques (gel, canicule) et recommander des actions préventives.
-
-Optimiser la santé et le rendement par l'IA :
-
-Tirer parti des données de culture (historique, météo, capteurs de sol/plante) pour fournir un journal d'entretien intelligent et des recommandations sur mesure (fréquence d'arrosage, apport de nutriments, moments de taille).
-
-
-
-
 
