@@ -1,6 +1,6 @@
 # Scrum_Kanban
 
-**La méthode SCRUM**
+# **La méthode SCRUM**
 
 ## Contenu
 
