@@ -1,4 +1,4 @@
-# **La méthode SCRUM**
+# **La Méthode SCRUM**
 
 ## Contenu
 
@@ -26,7 +26,7 @@ L'équipe de réalisation est restreinte et hautement spécialisée. Elle rassem
 - 1 Expert en IA (veille technologique et recherche avancée).
 - 1 Scrum Master et 1 Product Owner.
 
-## Contenu
+## Objectifs
 
 - Offrir une interface utilisateur (Web & App) permettant de suivre en temps réel la santé des cultures, la météo et l'historique d'entretien.
 - Anticiper les risques climatiques (gel, canicule) et recommander des actions préventives.
